@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+/*  */
+.career-card-1 {
+  margin-top: -20px;
+}
+.career-card-3 {
+  margin-top: -20px;
+}
+.career-card-5 {
+  margin-top: -20px;
+}
+/*  */
+.career-card-2 {
+  margin-top: 20px;
+}
+.career-card-4 {
+  margin-top: 20px;
+}
+.career-card-6 {
+  margin-top: 20px;
+}
