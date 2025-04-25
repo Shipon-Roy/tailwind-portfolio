@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
-import { FaCode } from "react-icons/fa";
 
 export default function Navber() {
   const [icon, setIcon] = useState(false);
@@ -12,9 +11,8 @@ export default function Navber() {
     <nav>
       <div className="fixed flex w-full h-[60px] justify-between items-center mx-auto border-b-2 border-green-400 md:border-none bg-[#162028] md:bg-[#1F2937  text-white px-20">
         <a href="/">
-          <h1 className="flex gap-3 text-[#43D9AD] text-[18px] md:text-[32px] font-['Inter'] md:font-['Segoe_UI_Historic'] font-normal line-[22px] md:text-white items-center">
-            <FaCode className="text-orange-400" /> S
-            <FaCode className="text-orange-400" />
+          <h1 className="bg-sky-300 rounded-full py-1 px-3 text-2xl font-bold">
+            S
           </h1>
         </a>
         <ul className="hidden md:flex gap-5">
