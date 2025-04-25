@@ -13,7 +13,7 @@ export default function Navber() {
       <div className="fixed flex w-full h-[60px] justify-between items-center mx-auto border-b-2 border-green-400 md:border-none bg-[#162028] md:bg-[#1F2937  text-white px-20">
         <a href="/">
           <h1 className="flex gap-3 text-[#43D9AD] text-[18px] md:text-[32px] font-['Inter'] md:font-['Segoe_UI_Historic'] font-normal line-[22px] md:text-white items-center">
-            <FaCode className="text-orange-400" /> SHIPON ROY
+            <FaCode className="text-orange-400" /> S
             <FaCode className="text-orange-400" />
           </h1>
         </a>
